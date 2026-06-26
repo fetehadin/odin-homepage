@@ -1,0 +1,24 @@
+{
+  "name": "odin-homepage",
+  "version": "1.0.0",
+  "description": "A responsive portfolio-style homepage built as part of the **Advanced HTML & CSS** course from **The Odin Project**.",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^4.0.0",
+    "vite": "^5.2.11"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.1"
+  }
+}
